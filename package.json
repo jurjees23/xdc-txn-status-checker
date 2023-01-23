@@ -8,21 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jurjees23/ethereum-status-checker.git"
+    "url": "git+https://github.com/jurjees23/xdc-txn-status-checker.git"
   },
   "keywords": [
-    "Ethreum",
+    "XDC",
     "Status",
     "mainnet",
     "transaction",
-    "hash"
+    "hash",
+    "apothem"
   ],
   "author": "Jurjees Ahamed S",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jurjees23/ethereum-status-checker/issues"
+    "url": "https://github.com/jurjees23/xdc-txn-status-checker/issues"
   },
-  "homepage": "https://github.com/jurjees23/ethereum-status-checker#readme",
+  "homepage": "https://github.com/jurjees23/xdc-txn-status-checker#readme",
   "dependencies": {
     "web3": "^1.8.1"
   }
